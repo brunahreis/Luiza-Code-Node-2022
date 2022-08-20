@@ -12,3 +12,7 @@ Lista todas as branch do seu repositório
 
 command git push
 atualiza o repósitorio depois do commit
+
+
+command git pull
+atualiza o arquivo editado no GitHub na IDE (por ex)
