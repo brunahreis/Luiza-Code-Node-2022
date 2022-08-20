@@ -1,2 +1,14 @@
-Primeira linh
-Segunda Linha 
+Para criar uma nova branch:
+git checkout -b "name"
+
+Para remover uma branch:
+git checkout -D "name"
+
+Para mudar de uma branch para outra:
+git checkout "name" (da branch que deseja ir)
+
+command: git branch
+Lista todas as branch do seu repositório
+
+command git push
+atualiza o repósitorio depois do commit
